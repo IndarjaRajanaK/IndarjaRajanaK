@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @IndarjaRajanaK
 - 👀 I’m interested in Front end developement
-- 🌱 I’m currently learning Angular
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently working as a ReactJs developer
 - 📫 How to reach me indrajarajanak@gmail.com
 
 <!---
